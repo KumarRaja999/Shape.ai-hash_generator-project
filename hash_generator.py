@@ -1,7 +1,7 @@
 # Python 3 code to demonstrate the
 # working of MD5 (byte - byte)
 import hashlib
-# encoding GeeksforGeeks using md5 hash
+# encoding using md5 hash
 # function
 result = hashlib.md5(b'immanuel')
 # printing the equivalent byte value.
